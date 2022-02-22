@@ -33,7 +33,7 @@ Among Us<br>
 Minecraft<br>
 
 ## GitHub Repo Pins
-Github ReadMe Stats<br><br>[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=CoopOS&title_color=FF0000&bg_color=80,fff,fff,FF0000,FF0000,fff&repo=CoopOS&icon_color=FF0000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=CoopOS&title_color=FF0000&bg_color=80,fff,fff,FF0000,FF0000,fff&repo=CoopOS&icon_color=FF0000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Credits
 - Github ReadMe Stats<br><br>[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&title_color=fff&bg_color=50,a13900,ff6612&repo=github-readme-stats&icon_color=fff&text_color=fff)](https://github.com/CoopOS/CoopOS)
