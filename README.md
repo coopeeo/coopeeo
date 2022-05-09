@@ -14,7 +14,16 @@ Table Of Contents
 I am a person, and i like to be called Coop.
 I like to Play Video Games too
 ## Statuses
+`svg here`
+### Online/Offline (Does not work yet) click detailed statuses for more
+#### <details><summary>Detailed Statuses</summary>
+<p>
+
 [![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)
+  
+[![Wii (RiiTag) status](https://tag.rc24.xyz/594864203102158859/tag.png)](https://tag.rc24.xyz/594864203102158859)
+</p>
+</details>
 
 ## Stats
 [![Coop's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoopPlayzz&bg_color=50,a13900,ff6612&title_color=fff&custom_title=My%20GitHub%20Stats&text_color=fff&hide_border=true#gh-dark-mode-only)](#)
