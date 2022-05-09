@@ -16,14 +16,7 @@ I like to Play Video Games too
 ## Statuses
 `svg here`
 ### Online/Offline (Does not work yet) click detailed statuses for more
-#### <details><summary>Detailed Statuses</summary>
-<p>
-
-[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)
-  
-[![Wii (RiiTag) status](https://tag.rc24.xyz/594864203102158859/tag.png)](https://tag.rc24.xyz/594864203102158859)
-</p>
-</details>
+#### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br>[![Wii (RiiTag) status](https://tag.rc24.xyz/594864203102158859/tag.png)](https://tag.rc24.xyz/594864203102158859)</p></details>
 
 ## Stats
 [![Coop's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoopPlayzz&bg_color=50,a13900,ff6612&title_color=fff&custom_title=My%20GitHub%20Stats&text_color=fff&hide_border=true#gh-dark-mode-only)](#)
@@ -51,3 +44,4 @@ Minecraft<br>
 - Github ReadMe Stats<br><br>[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&title_color=fff&bg_color=50,a13900,ff6612&repo=github-readme-stats&icon_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 - Lanyard <br><br>[![Lanyard Repo](https://github-readme-stats.vercel.app/api/pin/?username=phineas&title_color=fff&bg_color=50,a13900,ff6612&repo=lanyard&icon_color=fff&text_color=fff)](https://github.com/Phineas/lanyard)
 - Lanyard > Lanyard Profile Read Me <br><br>[![Lanyard Profile Read Me Repo](https://github-readme-stats.vercel.app/api/pin/?username=cnrad&title_color=fff&bg_color=50,a13900,ff6612&repo=lanyard-profile-readme&icon_color=fff&text_color=fff)](https://github.com/cnrad/lanyard-profile-readme)
+- RiiTag (Wii status picture) by RiiConnect24<br><br>[![Lanyard Profile Read Me Repo](https://github-readme-stats.vercel.app/api/pin/?username=RiiConnect24&title_color=fff&bg_color=50,a13900,ff6612&repo=RiiTag&icon_color=fff&text_color=fff)](https://github.com/RiiConnect24/RiiTag)
