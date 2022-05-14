@@ -17,7 +17,7 @@ jobs:
           id: "594864203102158859"
       - name: Commit and push if there are changes
         env: 
-            BOT_EMAIL: ${{ secret.BOT_EMAIL }}
+            BOT_EMAIL: ${{ secrets.BOT_EMAIL }}
         run: |-
           git diff
           git config --global user.email $BOT_EMAIL
