@@ -18,7 +18,7 @@ jobs:
       - name: Commit and push if there are changes
         run: |-
           git diff
-          git config --global user.email "cooplovesbb@outlook.com"
+          git config --global user.email $BOT_EMAIL
           git config --global user.name "CoopPlayzzBot"
           git diff --quiet || (git add -u && git commit -m "🚀 Update Discord Status")
           git push               
