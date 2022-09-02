@@ -18,7 +18,7 @@ I like to Play Video Games too
 #### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br>[![Wii (RiiTag) status](https://tag.rc24.xyz/594864203102158859/tag.png)](https://tag.rc24.xyz/594864203102158859)</p></details>
 
 ## Stats
-[![Coop's snek](https://raw.githubusercontent.com/CoopPlayzz/CoopPlayzz/snekOutput/github-contribution-grid-snake.svg)](#)
+[![Coop's snek](https://raw.githubusercontent.com/CoopPlayzz/CoopPlayzz/snekOutput/github-stats-snek.svg)](#)
 [![Coop's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoopPlayzz&bg_color=50,a13900,ff6612&title_color=fff&custom_title=My%20GitHub%20Stats&text_color=fff&hide_border=true#gh-dark-mode-only)](#)
 <br>
 [![Coop's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoopPlayzz&bg_color=50,a13900,ff6612&title_color=fff&text_color=fff&hide_border=true&icon_color=fff#gh-dark-mode-only)](#)
