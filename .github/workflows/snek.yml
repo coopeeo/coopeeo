@@ -33,8 +33,7 @@ jobs:
         env: 
             BOT_EMAIL: ${{ secrets.BOT_EMAIL }}
         run: |-
-          git diff
           git config --global user.email $BOT_EMAIL
           git config --global user.name "CoopPlayzzBot"
-          git add -u && git commit -m "🚀 Update Discord Status"
+          git add -u && git commit -m "Update snek"
           git push origin snekOutput
