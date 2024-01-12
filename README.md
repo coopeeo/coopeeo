@@ -15,8 +15,10 @@ I am a person, and i like to be called Coop.
 I like to Play Video Games too
 ## Statuses
 ### ⚪ Discord Status
-#### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br>[![Wii (RiiTag) status](https://tag.rc24.xyz/594864203102158859/tag.png)](https://tag.rc24.xyz/594864203102158859)</p></details>
-
+#### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br>
+[//]: # (remove riitag)
+[comment]: <> (https://tag.rc24.xyz/594864203102158859/tag.png <- pic | link -> https://tag.rc24.xyz/594864203102158859)
+</details>
 ## Stats
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /><img alt="github-snake" src="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /></picture>
 [![Coop's GitHub stats](https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api?username=coopeeo&bg_color=50,a13900,ff6612&title_color=fff&custom_title=My%20GitHub%20Stats&text_color=fff&hide_border=true#gh-dark-mode-only)](#)
