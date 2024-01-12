@@ -5,6 +5,7 @@ eeeee.href="javascript:(function() {if(window.location.hostname.includes('blooke
 document.addEventListener("keydown", function(event) {
   if (dada==true) return;
   if (event.keyCode == 37) {
+        alert("when ok is clicked it will inject")
         eeeee.click()
         dada=true
   }
