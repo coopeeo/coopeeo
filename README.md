@@ -1,4 +1,4 @@
-# Coop
+# Cooper
 Table Of Contents
 <ul>
 <li><a href="#Info">Info</a></li>
@@ -11,8 +11,8 @@ Table Of Contents
 
 ## Info
 
-I am a person, and i like to be called Coop.
-I like to Play Video Games too
+I am a person, and i like to be called Cooper.
+I like to play video games too!
 ## Statuses
 ### 🔴 Discord Status
 #### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br></details>
@@ -26,19 +26,19 @@ I like to Play Video Games too
 [![Coop's Top Languages](https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/top-langs/?username=coopeeo&bg_color=50,a13900,ff6612&title_color=fff&text_color=fff&hide_border=true&icon_color=fff#gh-dark-mode-only)](#)
 
 
-## Stuff about me (like what i do and like to play)
+## Stuff About Me (like what I do and like to play)
 
 ### What I like (not in order)
 Food
 Fast Food<br>
 Coding<br>
 Playing<br>
-### What games i like to play (not in order)
+### What Games I Like to Play (not in order)
 Fortnite<br>
 Roblox<br>
 Among Us<br>
 Minecraft<br>
-VALORANT i luv game rn<br>
+GEOMETRY DAHS
 
 ## GitHub Repo Pins
 [![Readme Repo](https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/pin/?username=CoopOS&title_color=FF0000&bg_color=80,fff,FF0000,FF0000,fff&repo=CoopOS&icon_color=FF0000&text_color=fff)](https://github.com/CoopOS/CoopOS)
