@@ -14,7 +14,7 @@ Table Of Contents
 I am a person, and i like to be called Cooper.
 I like to play video games too!
 ## Statuses
-### 🟡 Discord Status
+### 🟢 Discord Status
 #### <details><summary>Detailed Statuses</summary><p>[![Discord Status](https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=Coop%20Is%20not%20doing%20anything%20rn)](https://discord.com/users/594864203102158859)<br></details>
 [//]: # (remove riitag)
 [/]: # (https://tag.rc24.xyz/594864203102158859/tag.png <- pic | link -> https://tag.rc24.xyz/594864203102158859)
