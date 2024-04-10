@@ -32,7 +32,7 @@
 </ul>
 
 <h2 align="center">GitHub Repo Pins</h2>
-None currently - Look at my pins on GH
+<p align="center">None currently - Look at my pins on GH</p>
 
 <h2 align="center">Credits</h2>
 <p align="center">
