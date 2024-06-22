@@ -7,7 +7,7 @@
 <p align="center">no no</p>
 
 <h2 align="center">Status</h2>
-<h3 align="center">🟡 Discord Status</h3>
+<h3 align="center">⚪ Discord Status</h3>
 <p align="center">
   <a href="https://discord.com/users/594864203102158859">
     <img src="https://lanyard.cnrad.dev/api/594864203102158859?hideDiscrim=true&idleMessage=I%20am%20currently%20not%20playing%20anything%20at%20the%20moment.&bg=1e1e2e&showDisplayName=true" alt="Discord Status" />
