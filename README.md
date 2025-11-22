@@ -1,10 +1,10 @@
-<h1 align="center">Cooper</h1>
+<h1 align="center">August</h1>
 
 <p align="center">
-<img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cooper%27s+Languages&align=center&fontFamily=Gotham+Black&showBorder=false&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=javascript%2CJavaScript%2CF0DB4F%3Bhtml5%2CHTML%2CF16529%3Bcplusplus%2CC%2B%2B%2C2872cf%3Blua%2CLua%2C2041d7%3B" alt="Cooper's Languages" /></p>
+<img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=August%27s+Languages&align=center&fontFamily=Gotham+Black&showBorder=false&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=javascript%2CJavaScript%2CF0DB4F%3Bhtml5%2CHTML%2CF16529%3Bcplusplus%2CC%2B%2B%2C2872cf%3Blua%2CLua%2C2041d7%3B" alt="August's Languages" /></p>
 
-<h2 align="center">Info</h2>
-<p align="center">no no</p>
+<!--h2 align="center">Info</h2>
+<p align="center">no no</p-->
 
 <h2 align="center">Status</h2>
 <h3 align="center">🔴 Discord Status</h3>
@@ -19,8 +19,8 @@
 <h2 align="center">Stats</h2>
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /><img alt="github-snake" src="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /></picture>
-<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="Cooper's GitHub Stats" />
-<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/top-langs/?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="Cooper's Top Languages" />
+<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's GitHub Stats" />
+<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/top-langs/?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's Top Languages" />
 </p>
 
 <h2 align="center">What I like to do in my free time</h2>
