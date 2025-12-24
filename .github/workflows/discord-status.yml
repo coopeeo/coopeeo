@@ -1,8 +1,8 @@
 name: Update Discord Status
 on:
-  schedule: [{cron: "*/7 * * * *"}]
+  #schedule: [{cron: "*/7 * * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main", "snekOutput"]}
+  #push: {branches: ["master", "main", "snekOutput"]}
 
 jobs:
   status:
